@@ -1,2 +1,2 @@
 # Passenger-Counter
-Passenger Counter App
+Simple counter app which increments and saves numbers.
